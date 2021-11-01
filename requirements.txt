@@ -4,4 +4,3 @@ numpy
 regex
 nltk
 streamlit
-pickle
